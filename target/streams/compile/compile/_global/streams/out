@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/bowmanrussell/lab6-l6_boru7277_yawu8395/src/main/scala/jsy/student/Lab6.scala:195:96: method + in class Char is deprecated (since 2.13.0): Adding a number and a String is deprecated. Use the string interpolation `s"$num$str"`[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case (c, next) => if (!delimiters.contains(c)) Success(RSingle(c),next) else Failure(c + " is a meta-language character", next)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

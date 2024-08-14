@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/bowmanrussell/lab6-l6_boru7277_yawu8395/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6Harness$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6SpecRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6FoldLeftTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6FoldLeftTestsRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6Spec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JavascriptyTester.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab6Harness.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/bowmanrussell/lab6-l6_boru7277_yawu8395/target/scala-2.13/test-classes.bak[0m
